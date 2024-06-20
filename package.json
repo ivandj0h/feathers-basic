@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@feathersjs/feathers": "^5.0.0-pre.36",
-    "@feathersjs/koa": "^5.0.0-pre.36",
+    "@feathersjs/koa": "^5.0.27",
     "@feathersjs/socketio": "^5.0.0-pre.36"
   }
 }
